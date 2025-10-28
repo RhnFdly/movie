@@ -28,3 +28,4 @@ A simple web-based **Movie Search Application** built with **HTML, CSS, and Java
 ---
 
 
+<img width="1366" height="768" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/1fb6f6bd-fdf0-47d6-a6a4-016d93756f04" />
